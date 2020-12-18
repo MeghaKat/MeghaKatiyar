@@ -11,7 +11,7 @@
 
 
 ---
-[Investigating the classification performance of linear and logistic regression](https://github.com/MeghaKat/Regressions.git)
+[Investigating the Classification Performance of Regression Algorithms](https://github.com/MeghaKat/Regressions.git)
 
 
 
