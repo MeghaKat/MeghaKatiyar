@@ -4,7 +4,7 @@
 
 ### Data Analytics and Machine Learning
 
-[Predicting Wine Variety using NLP](/sample_page)
+[Predicting Wine Variety using NLP](https://github.com/MeghaKat/WineVarietyPredictionNLP.git)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
