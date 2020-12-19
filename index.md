@@ -13,8 +13,7 @@
 [Investigating the Classification Performance of Regression Algorithms](https://github.com/MeghaKat/Regressions.git)
 
 ---
-[Stock Prediction Using Deep Learning](https://github.com/MeghaKat/DeepLearning.git)
-
+[Stock Prediction Using Deep Learning](https://github.com/MeghaKat/DeepLearning.git)  
 
 
 
