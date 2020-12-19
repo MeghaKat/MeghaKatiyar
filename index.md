@@ -15,7 +15,7 @@
 ---
 [Stock Prediction Using Deep Learning](https://github.com/MeghaKat/DeepLearning.git)
 
----
+
 
 ### Work Expereince
 
