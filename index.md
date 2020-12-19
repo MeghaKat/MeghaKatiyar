@@ -23,17 +23,17 @@
 ### Work Expereince
 
 ---
-#### Machine Learning Engineer, Facedrive , Toronto,ON
+Machine Learning Engineer, Facedrive , Toronto,ON
 
 ---
-#### Machine Learning Intern, Wolseley , Burlington,ON
+Machine Learning Intern, Wolseley , Burlington,ON
 
 ---
-#### Automation Test Engineer, Infosys , Pune, IN
+Automation Test Engineer, Infosys , Pune, IN
 
 
 ---
-### Skills and Technologies
+
 
 
 
