@@ -2,7 +2,7 @@
 
 ---
 
-### Data Analytics and Machine Learning
+### Academic Projects
 
 [Predicting Wine Variety using NLP](https://github.com/MeghaKat/WineVarietyPredictionNLP.git)
 
@@ -20,11 +20,20 @@
 
 
 ---
-### Work Expereince
+## Work Expereince
+
+---
 ### Machine Learning Engineer, Facedrive , Toronto,ON
+
+---
 ### Machine Learning Intern, Wolseley , Burlington,ON
+
+---
 ### Automation Test Engineer, Infosys , Pune, IN
 
+
+---
+## Skills and Technologies
 
 
 
