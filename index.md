@@ -5,21 +5,14 @@
 ### Academic Projects
 
 [Predicting Wine Variety using NLP](https://github.com/MeghaKat/WineVarietyPredictionNLP.git)
-
 ---
 [Classifying Handwritten Digits (MNIST dataset) using Machine Learning](https://github.com/MeghaKat/NeuralNets.git)
-
-
 ---
 [Investigating the Classification Performance of Regression Algorithms](https://github.com/MeghaKat/Regressions.git)
-
-
 ---
 [Stock Prediction Using Deep Learning](https://github.com/MeghaKat/DeepLearning.git)
-
-
-
 ---
+
 ### Work Expereince
 
 ---
