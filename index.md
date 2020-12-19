@@ -19,7 +19,7 @@
 
 ### Work Expereince
 
----
+
 Machine Learning Engineer, Facedrive , Toronto,ON
 
 ---
