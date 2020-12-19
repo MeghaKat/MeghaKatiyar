@@ -14,8 +14,19 @@
 [Investigating the Classification Performance of Regression Algorithms](https://github.com/MeghaKat/Regressions.git)
 
 
+---
+[Stock Prediction Using Deep Learning](https://github.com/MeghaKat/DeepLearning.git)
+
 
 
 ---
+### Work Expereince
+### Machine Learning Engineer, Facedrive , Toronto,ON
+### Machine Learning Intern, Wolseley , Burlington,ON
+### Automation Test Engineer, Infosys , Pune, IN
+
+
+
+
 
 <!-- Remove above link if you don't want to attibute -->
