@@ -22,15 +22,19 @@
 
 ### Work Expereince
 
-
-Machine Learning Engineer, Facedrive , Toronto,ON
-
----
-Machine Learning Intern, Wolseley , Burlington,ON
+Data Analyst, ClicData , Toronto ,ON, 2022-2023
 
 ---
-Automation Test Engineer, Infosys , Pune, IN
 
+Data Analyst, Pulse Industrial , Waterloo ,ON, 2021-2022
+
+---
+
+Data Analyst, Facedrive , Toronto ,ON, 2020
+
+---
+
+Automation Test Engineer, Infosys , Pune, IN, 2016-2018
 
 ---
 
