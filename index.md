@@ -34,6 +34,10 @@ Data Analyst, Facedrive , Toronto ,ON, 2020
 
 ---
 
+Machine Learning Intern, Wolseley Canada Inc , Toronto, ON, 2019-2020
+
+---
+
 Automation Test Engineer, Infosys , Pune, IN, 2016-2018
 
 ---
